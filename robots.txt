@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://fivenightsatfreddys2movie.github.io/sitemap.xml
